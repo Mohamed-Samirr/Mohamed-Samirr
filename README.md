@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:bae6fd&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=0369a1&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
-  <img alt="Mohamed Samir Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a%2C100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe%2C100:bae6fd&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=0369a1&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
+  <img alt="Mohamed Samir Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a%2C100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false" width="100%">
 </picture>
 
 <a href="https://git.io/typing-svg">
