@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Mobile+Application+Developer+(Flutter+%26+Dart);Electrical+%26+Computer+Engineering+Background;Building+Dark-Mode+UIs+%26+Native+Home+Screen+Widgets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Mobile+Application+Developer+(Flutter+%26+Dart);Electrical+%26+Computer+Engineering+Background" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -16,9 +16,6 @@
   </a>
   <a href="https://www.facebook.com/MohamedSamir.bermay04" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/Mohamed-Samirr?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Mohamed-Samirr?label=Followers&style=for-the-badge&logo=github&color=0d1117&logoColor=white" alt="GitHub Followers" />
   </a>
 </p>
 
