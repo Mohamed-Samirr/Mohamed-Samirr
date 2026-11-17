@@ -109,15 +109,6 @@
 
 ---
 
-### 📊 GitHub Activity & Language Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamed-Samirr&theme=tokyonight" alt="Mohamed's GitHub Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Samirr&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
 ### 🐍 Contribution Activity
 
 <picture>
