@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:bae6fd&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=0369a1&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68">
-  <img alt="Mohamed Samir Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:bae6fd&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=0369a1&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false">
+  <img alt="Mohamed Samir Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Mohamed%20Samir&fontSize=42&fontColor=38bdf8&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Flutter%20Developer&descSize=18&descAlignY=68&animation=false" width="100%">
 </picture>
 
 <a href="https://git.io/typing-svg">
@@ -117,8 +117,11 @@
 ### 📊 GitHub Activity & Language Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Samirr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Mohamed's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samirr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Mohamed-Samirr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Samirr&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Samirr&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
