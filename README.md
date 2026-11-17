@@ -17,21 +17,25 @@
 
 ---
 
-### 👨‍💻 Engineering Profile
+## 👨💻 Engineering Profile
 
-- ⚡ **Mobile Architecture & Scalability:** Specializing in cross-platform mobile engineering with Flutter & Dart, implementing clean, maintainable patterns (BLoC, Provider, Clean Architecture, Dependency Injection via GetIt, and Freezed data models).
-- 📱 **Native Bridge & System Integration:** Experienced in bridging Flutter with platform-native capabilities, including interactive home-screen widgets (`home_widget`), biometric security (`local_auth`), device sensors telemetry, and audio pipelines.
-- 🛠️ **Engineering Foundation & Optimization:** Applying an Electrical & Computer Engineering discipline to algorithmic efficiency, memory footprint reduction, package-size minimization, and sleek, dark-mode-first user interfaces.
+- ⚡ **Mobile Architecture & Testable Code:** Specializing in cross-platform mobile engineering with Flutter & Dart (iOS & Android), implementing scalable **Clean Architecture (MVVM/MVC)**, **BLoC / Cubit**, **Provider**, **GetIt** dependency injection, **Freezed** data models, **Either-based** functional error handling, and **Unit & Widget Testing**.
+- 🤖 **AI, Real-Time Streaming & Native Integration:** Experienced in building AI-powered mobile workflows with **Server-Sent Events (SSE)** token-by-token streaming, **on-device AI** inference, bilingual **Markdown & LaTeX** rendering, interactive home-screen widgets (`home_widget`), biometric security (`local_auth`), device sensors telemetry, and audio pipelines.
+- 🛠️ **Production Deployment & Optimization:** Applying an Electrical & Computer Engineering discipline to end-to-end **iOS App Store & Android deployment**, algorithmic efficiency, memory footprint & package-size minimization, accessible UI workflows, and sleek dark-mode-first interfaces.
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+## 🛠️ Core Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,firebase,git,github,vscode,androidstudio,figma,postman&theme=dark" alt="Core Tech Stack" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,firebase,sqlite,cpp,git,github,vscode,androidstudio,figma,postman&theme=dark" alt="Tech Stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-MVVM_%2F_MVC-0f172a?style=flat-square&logo=flutter&logoColor=38bdf8" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/State-BLoC_(Cubit)_%7C_Provider_%7C_GetIt-0f172a?style=flat-square&logo=dart&logoColor=38bdf8" alt="State Management" />
+  <img src="https://img.shields.io/badge/Networking_&_DB-REST_API_%7C_Dio_%7C_SSE_%7C_Hive-0f172a?style=flat-square&logo=fastapi&logoColor=38bdf8" alt="Data & Services" />
+  <img src="https://img.shields.io/badge/Testing-Unit_&_Widget_Testing-0f172a?style=flat-square&logo=checkmarx&logoColor=4ade80" alt="Testing" />
+  <img src="https://img.shields.io/badge/Release-iOS_App_Store_&_Android-0f172a?style=flat-square&logo=apple&logoColor=white" alt="Deployment" />
+</div>
 
 ---
 
@@ -110,13 +114,10 @@
 
 ### 📊 GitHub Activity & Language Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-Samirr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Samirr&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Samirr&theme=tokyonight" alt="Profile Details" />
-</p>
+<div align="center">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamed-Samirr&theme=tokyonight" alt="Mohamed's GitHub Stats" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Samirr&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
