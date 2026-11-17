@@ -73,13 +73,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Mohamed-Samirr/sanad">sanad</a></h3>
-      <p>Robust Flutter mobile app with BLoC & Clean Architecture, featuring biometric authentication (<code>local_auth</code>), scheduled notifications, interactive charts (<code>fl_chart</code>), and Hive storage.</p>
+      <h3>🍳 <a href="https://github.com/Mohamed-Samirr/recipe_app">recipe_app</a></h3>
+      <p>Culinary discovery Flutter application featuring RESTful recipe queries, offline Hive bookmarking, and smooth modern navigation.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/BLoC-495057?style=flat-square&logo=bloc&logoColor=white" alt="BLoC" />
-        <img src="https://img.shields.io/badge/Biometrics-059669?style=flat-square" alt="Local Auth" />
-        <img src="https://img.shields.io/badge/fl__chart-EC4899?style=flat-square" alt="Charts" />
+        <img src="https://img.shields.io/badge/Hive-FBBF24?style=flat-square" alt="Hive" />
+        <img src="https://img.shields.io/badge/REST%20API-10B981?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/UI-Google%20Nav%20Bar-6366F1?style=flat-square" alt="Nav Bar" />
       </p>
     </td>
   </tr>
