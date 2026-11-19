@@ -19,9 +19,11 @@
 
 ## 👨💻 Engineering Profile
 
-- ⚡ **Mobile Architecture & Testable Code:** Specializing in cross-platform mobile engineering with Flutter & Dart (iOS & Android), implementing scalable **Clean Architecture (MVVM/MVC)**, **BLoC / Cubit**, **Provider**, **GetIt** dependency injection, **Freezed** data models, **Either-based** functional error handling, and **Unit & Widget Testing**.
-- 🤖 **AI, Real-Time Streaming & Native Integration:** Experienced in building AI-powered mobile workflows with **Server-Sent Events (SSE)** token-by-token streaming, **on-device AI** inference, bilingual **Markdown & LaTeX** rendering, interactive home-screen widgets (`home_widget`), biometric security (`local_auth`), device sensors telemetry, and audio pipelines.
-- 🛠️ **Production Deployment & Optimization:** Applying an Electrical & Computer Engineering discipline to end-to-end **iOS App Store & Android deployment**, algorithmic efficiency, memory footprint & package-size minimization, accessible UI workflows, and sleek dark-mode-first interfaces.
+- 📱 **Mobile Development:** Building cross-platform mobile applications using Flutter & Dart for iOS and Android.
+
+- ⚙️ **App Architecture & Development:** Working with Clean Architecture, State Management (BLoC/Cubit, Provider), REST APIs, and Firebase.
+
+- 🚀 **Beyond Development:** Exploring AI integration, native mobile features, performance optimization, and delivering production-ready applications.
 
 ---
 
